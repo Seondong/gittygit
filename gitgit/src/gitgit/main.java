@@ -7,5 +7,8 @@ public class main {
 		gitagent.laugh();
 		gitagent.laugh();
 		gitagent.laugh();
+		
+		System.out.println("This app shows data");
+		System.out.println("-------------------");
 	}
 }
